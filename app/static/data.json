@@ -1,0 +1,272 @@
+{
+    "Banana": {
+        "modal_price": 3000,
+        "min_price": 425,
+        "max_price": 6200
+    },
+    "Black pepper": {
+        "modal_price": 29250,
+        "min_price": 29000,
+        "max_price": 130000
+    },
+    "Coconut": {
+        "modal_price": 2800,
+        "min_price": 800,
+        "max_price": 6000
+    },
+    "Rice": {
+        "modal_price": 2300,
+        "min_price": 0,
+        "max_price": 7000
+    },
+    "Groundnut": {
+        "modal_price": 4900,
+        "min_price": 3100,
+        "max_price": 7752
+    },
+    "Linseed": {
+        "modal_price": 3475,
+        "min_price": 3450,
+        "max_price": 3500
+    },
+    "Maize": {
+        "modal_price": 1850,
+        "min_price": 1250,
+        "max_price": 2210
+    },
+    "Onion": {
+        "modal_price": 1000,
+        "min_price": 0,
+        "max_price": 3500
+    },
+    "Potato": {
+        "modal_price": 500,
+        "min_price": 0,
+        "max_price": 3500
+    },
+    "Soyabean": {
+        "modal_price": 3200,
+        "min_price": 3200,
+        "max_price": 3615
+    },
+    "Tapioca": {
+        "modal_price": 2500,
+        "min_price": 210,
+        "max_price": 4000
+    },
+    "Tobacco": {
+        "modal_price": 1900,
+        "min_price": 1800,
+        "max_price": 3200
+    },
+    "Turmeric": {
+        "modal_price": 5200,
+        "min_price": 5050,
+        "max_price": 8609
+    },
+    "Wheat": {
+        "modal_price": 1900,
+        "min_price": 0,
+        "max_price": 3000
+    },
+    "Jute": {
+        "modal_price": 3900,
+        "min_price": 2700,
+        "max_price": 4700
+    },
+    "Garlic": {
+        "modal_price": 2000,
+        "min_price": 700,
+        "max_price": 7200
+    },
+    "Arecanut": {
+        "modal_price": 101,
+        "min_price": 65,
+        "max_price": 319
+    },
+    "Cashewnut": {
+        "modal_price": 284,
+        "min_price": 71,
+        "max_price": 346
+    },
+    "Dry chillies": {
+        "modal_price": 115,
+        "min_price": 90,
+        "max_price": 373
+    },
+    "Ginger": {
+        "modal_price": 120,
+        "min_price": 79,
+        "max_price": 303
+    },
+    "Other Kharif pulses": {
+        "modal_price": 184,
+        "min_price": 61,
+        "max_price": 352
+    },
+    "other oilseeds": {
+        "modal_price": 142,
+        "min_price": 97,
+        "max_price": 338
+    },
+    "Sugarcane": {
+        "modal_price": 197,
+        "min_price": 77,
+        "max_price": 316
+    },
+    "Sweet potato": {
+        "modal_price": 229,
+        "min_price": 91,
+        "max_price": 303
+    },
+    "Arhar/Tur": {
+        "modal_price": 296,
+        "min_price": 58,
+        "max_price": 394
+    },
+    "Bajra": {
+        "modal_price": 200,
+        "min_price": 94,
+        "max_price": 397
+    },
+    "Castor seed": {
+        "modal_price": 243,
+        "min_price": 68,
+        "max_price": 329
+    },
+    "Coriander": {
+        "modal_price": 250,
+        "min_price": 68,
+        "max_price": 352
+    },
+    "Cotton(lint)": {
+        "modal_price": 292,
+        "min_price": 89,
+        "max_price": 390
+    },
+    "Gram": {
+        "modal_price": 289,
+        "min_price": 54,
+        "max_price": 309
+    },
+    "Horse-gram": {
+        "modal_price": 286,
+        "min_price": 58,
+        "max_price": 324
+    },
+    "Jowar": {
+        "modal_price": 169,
+        "min_price": 78,
+        "max_price": 315
+    },
+    "Mesta": {
+        "modal_price": 102,
+        "min_price": 71,
+        "max_price": 370
+    },
+    "Moong(Green Gram)": {
+        "modal_price": 130,
+        "min_price": 60,
+        "max_price": 386
+    },
+    "Niger seed": {
+        "modal_price": 218,
+        "min_price": 57,
+        "max_price": 370
+    },
+    "Other Rabi pulses": {
+        "modal_price": 147,
+        "min_price": 55,
+        "max_price": 311
+    },
+    "Ragi": {
+        "modal_price": 283,
+        "min_price": 79,
+        "max_price": 397
+    },
+    "Rapeseed &Mustard": {
+        "modal_price": 235,
+        "min_price": 81,
+        "max_price": 358
+    },
+    "Safflower": {
+        "modal_price": 297,
+        "min_price": 65,
+        "max_price": 330
+    },
+    "Sesamum": {
+        "modal_price": 119,
+        "min_price": 86,
+        "max_price": 389
+    },
+    "Small millets": {
+        "modal_price": 165,
+        "min_price": 92,
+        "max_price": 394
+    },
+    "Sunflower": {
+        "modal_price": 132,
+        "min_price": 56,
+        "max_price": 342
+    },
+    "Urad": {
+        "modal_price": 240,
+        "min_price": 91,
+        "max_price": 370
+    },
+    "Oilseeds total": {
+        "modal_price": 106,
+        "min_price": 67,
+        "max_price": 353
+    },
+    "Masoor": {
+        "modal_price": 193,
+        "min_price": 93,
+        "max_price": 398
+    },
+    "Peas & beans (Pulses)": {
+        "modal_price": 279,
+        "min_price": 56,
+        "max_price": 314
+    },
+    "Barley": {
+        "modal_price": 239,
+        "min_price": 93,
+        "max_price": 393
+    },
+    "Khesari": {
+        "modal_price": 185,
+        "min_price": 94,
+        "max_price": 367
+    },
+    "Sannhamp": {
+        "modal_price": 183,
+        "min_price": 65,
+        "max_price": 390
+    },
+    "Guar seed": {
+        "modal_price": 182,
+        "min_price": 70,
+        "max_price": 306
+    },
+    "Moth": {
+        "modal_price": 222,
+        "min_price": 85,
+        "max_price": 359
+    },
+    "Cardamom": {
+        "modal_price": 282,
+        "min_price": 87,
+        "max_price": 399
+    },
+    "Other Cereals": {
+        "modal_price": 173,
+        "min_price": 95,
+        "max_price": 340
+    },
+    "Cowpea(Lobia)": {
+        "modal_price": 181,
+        "min_price": 78,
+        "max_price": 382
+    }
+}
